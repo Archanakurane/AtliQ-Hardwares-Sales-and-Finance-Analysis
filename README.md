@@ -1,5 +1,7 @@
 # AtliQ-Hardwares-Sales-and-Finance-Analysis
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄: Embarking on a challenging journey into the realm of data analytics, I have successfully transformed a vast dataset of 1 million raw sales records into actionable insights for AtliQ Hardwares. Here's an overview of my achievements:
+
+
 📈 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗱:
 • Employed ETL techniques with Power Query for efficient data cleaning and preparation.
 • Mastered advanced Excel functions, including VLOOKUP and XLOOKUP, to integrate and analyze data seamlessly.
